@@ -1,0 +1,6 @@
+[Channel:面接サーバールール UserName:Carl-bot Date:2019-11-09 10:24:36.531719 Type：MessageDelete]
+Hello. Which channel would you like the message to be in?
+
+[Channel:面接サーバールール UserName:Carl-bot Date:2019-11-09 10:24:42.535210 Type：MessageDelete]
+Channel "640572856874565702" not found.. Redo the command to try again
+

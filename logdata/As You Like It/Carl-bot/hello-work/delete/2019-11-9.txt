@@ -1,0 +1,78 @@
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:09:39.913477 Type：MessageDelete]
+
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:09:54.487609 Type：MessageDelete]
+The syntax for adding roles is emoji then role, like `:angel: role_name`
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:09:58.048661 Type：MessageDelete]
+The syntax for adding roles is emoji then role, like `:angel: role_name`
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:10:03.949839 Type：MessageDelete]
+That does not seem to be an emoji. If you insist that it is, make sure you don't have any other bots deleting messages from either of us. **Type 'done' to save and finish** or 'cancel' to discard everything.
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:10:17.970516 Type：MessageDelete]
+Alright, I got a title and a description, would you like the message to have a color? Respond with the hex code or 'none' to skip.
+Not sure what a hex code is? Check out <https://htmlcolorcodes.com/color-picker/>.
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:10:20.822745 Type：MessageDelete]
+Alright, the message will look like this. Next up we will add roles
+The format for adding roles is emoji then the name of the role. When you're done, type 'done'
+**Example:** ```:smile: league of legends```
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:10:28.813041 Type：MessageDelete]
+Hello. Which channel would you like the message to be in?
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:10:33.863995 Type：MessageDelete]
+Alright, the channel is <#640550691605315624>. What would you like the message to say? Use a | to separate the title from the description, like so
+ ```This is a title | this is the description```
+You can also type `{roles}` to have it replaced with a list of each emoji and its associated role.
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:15:22.442520 Type：MessageDelete]
+
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:15:32.723952 Type：MessageDelete]
+Alright, the message will look like this. Next up we will add roles
+The format for adding roles is emoji then the name of the role. When you're done, type 'done'
+**Example:** ```:smile: league of legends```
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:15:39.133380 Type：MessageDelete]
+Alright, I got a title and a description, would you like the message to have a color? Respond with the hex code or 'none' to skip.
+Not sure what a hex code is? Check out <https://htmlcolorcodes.com/color-picker/>.
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:15:46.100313 Type：MessageDelete]
+Alright, the channel is <#640550691605315624>. What would you like the message to say? Use a | to separate the title from the description, like so
+ ```This is a title | this is the description```
+You can also type `{roles}` to have it replaced with a list of each emoji and its associated role.
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:15:52.044984 Type：MessageDelete]
+Hello. Which channel would you like the message to be in?
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:16:01.050843 Type：MessageDelete]
+Channel "642531185817288726" not found.. Redo the command to try again
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:16:07.273958 Type：MessageDelete]
+Hello. Which channel would you like the message to be in?
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:16:18.315469 Type：MessageDelete]
+Alright, the message will look like this. Next up we will add roles
+The format for adding roles is emoji then the name of the role. When you're done, type 'done'
+**Example:** ```:smile: league of legends```
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:16:21.191054 Type：MessageDelete]
+You took too long, goodbye!
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:16:26.682673 Type：MessageDelete]
+Alright, I got a title and a description, would you like the message to have a color? Respond with the hex code or 'none' to skip.
+Not sure what a hex code is? Check out <https://htmlcolorcodes.com/color-picker/>.
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:16:33.344243 Type：MessageDelete]
+Alright, the channel is <#640550691605315624>. What would you like the message to say? Use a | to separate the title from the description, like so
+ ```This is a title | this is the description```
+You can also type `{roles}` to have it replaced with a list of each emoji and its associated role.
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:16:38.569649 Type：MessageDelete]
+Hello. Which channel would you like the message to be in?
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:16:45.773357 Type：MessageDelete]
+
+

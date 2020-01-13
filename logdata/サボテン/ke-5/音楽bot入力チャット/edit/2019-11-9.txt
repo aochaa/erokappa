@@ -1,0 +1,7 @@
+[Channel:音楽bot入力チャット UserName:ke-5 Date:2019-11-09 15:07:54.823846 Type：Edit]
+Before Edit:
+-p https://www.youtube.com/watch?v=apoSRXjAdq8
+---------------------
+After Edit:
+-p https://www.youtube.com/watch?v=apoSRXjAdq8
+

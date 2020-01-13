@@ -1,0 +1,83 @@
+[Channel:bot UserName:Groovy Date:2019-11-09 15:34:14.596952 Type：MessageDelete]
+```nimrod
+ 1) Billie Eilish - 8                                  2m 54s 
+ 2) 8                                                  2m 54s 
+ 3) Billie Eilish - 8                                  2m 56s 
+ 4) Carmella & Dana Brooke vs. Fire & Desire - SmackD… 2m 47s 
+ 5) “The Fiend” Bray Wyatt silences Daniel Bryan - Sm… 1m 45s 
+ 6) Ali & Shorty G vs. Shinsuke Nakamura & Cesaro - S… 3m 1s  
+ 7) King Corbin calls out Roman Reigns in royal addre… 4m 43s 
+ 8) Lio Rush vs. Raul Mendoza - WWE 205 Live, Nov. 8,… 4m 7s  
+ 9) NHL Highlights | Lightning vs Sabres - Nov. 8, 20… 5m 4s  
+10) Jaws - The Revenge Movie CLIP - The Banana Boat    2m 2s  
+11) Billie Eilish - 8 (Karaoke Version)                3m 12s 
+                                                              
+  7 more track(s)                                             
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:36:34.054855 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:36:34.603414 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:36:53.258609 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:42:30.988996 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:42:31.443826 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:44:51.483287 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:44:51.818351 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:49:32.501561 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:49:32.942464 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:52:53.581745 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:52:53.917869 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:57:33.625781 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:57:33.876136 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:03:13.226526 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:03:13.497909 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:07:15.567359 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:07:15.870637 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:13:03.555672 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:20:37.504594 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:20:37.793930 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:26:25.529922 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 17:22:54.655899 Type：MessageDelete]
+
+

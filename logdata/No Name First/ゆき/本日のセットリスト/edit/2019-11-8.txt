@@ -1,0 +1,21 @@
+[Channel:本日のセットリスト UserName:ゆき Date:2019-11-08 23:24:02.711026 Type：Edit]
+Before Edit:
+!p https://youtu.be/LRL0tF8nU68
+---------------------
+After Edit:
+!p https://youtu.be/LRL0tF8nU68
+
+[Channel:本日のセットリスト UserName:ゆき Date:2019-11-08 23:29:41.199469 Type：Edit]
+Before Edit:
+!p https://youtu.be/obw7Tk8t7aE
+---------------------
+After Edit:
+!p https://youtu.be/obw7Tk8t7aE
+
+[Channel:本日のセットリスト UserName:ゆき Date:2019-11-08 23:33:33.687613 Type：Edit]
+Before Edit:
+!p https://youtu.be/dW8bsT2_nEA
+---------------------
+After Edit:
+!p https://youtu.be/dW8bsT2_nEA
+

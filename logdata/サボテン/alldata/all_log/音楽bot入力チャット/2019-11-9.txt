@@ -1,0 +1,127 @@
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 14:22:07.538636 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 14:46:57.121063 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:01:57.380618 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:02:27.403450 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:05:15.484875 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:ke-5 Date:2019-11-09 15:07:54.823846 Type：Edit]
+Before Edit:
+-p https://www.youtube.com/watch?v=apoSRXjAdq8
+---------------------
+After Edit:
+-p https://www.youtube.com/watch?v=apoSRXjAdq8
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:07:55.147972 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:08:56.016182 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:09:15.942891 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:09:16.064452 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:09:16.162211 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:09:46.004493 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:09:46.147994 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:09:46.421301 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:11:58.504010 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:14:34.542712 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:15:02.352311 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:15:02.553797 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:15:02.829147 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:17:31.469156 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:17:31.580857 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:17:31.658648 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:22:43.357133 Type：MessageDelete]
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:37:43.503955 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:音楽bot入力チャット UserName:Groovy Date:2019-11-09 15:38:13.538657 Type：MessageDelete]
+
+

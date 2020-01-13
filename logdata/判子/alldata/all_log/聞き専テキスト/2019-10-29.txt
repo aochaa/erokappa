@@ -1,0 +1,19 @@
+[Channel:聞き専テキスト UserName:you Date:2019-10-29 22:22:35.168997 Type：MessageDelete]
+ま〇こに指入れる
+
+[Channel:聞き専テキスト UserName:丸みを帯びたＵ字の水槽 Date:2019-10-29 23:49:26.717425 Type：MessageDelete]
+すいすいの心のマグナムは１８せんち
+
+[Channel:聞き専テキスト UserName:丸みを帯びたＵ字の水槽 Date:2019-10-29 23:49:46.280836 Type：MessageDelete]
+||はちみりはもう女の子||
+
+[Channel:聞き専テキスト UserName:丸みを帯びたＵ字の水槽 Date:2019-10-29 23:54:34.663613 Type：MessageDelete]
+ぷ「ぷ「因果応報だから
+
+[Channel:聞き専テキスト UserName:丸みを帯びたＵ字の水槽 Date:2019-10-29 23:55:50.932098 Type：Edit]
+Before Edit:
+た「どめ吉にやってるときが一番面白いんだよなぁ」
+---------------------
+After Edit:
+た「どめ吉にやってるときが一番気持ちいいんだよなぁ」
+

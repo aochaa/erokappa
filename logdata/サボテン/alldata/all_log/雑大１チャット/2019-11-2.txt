@@ -1,0 +1,33 @@
+[Channel:雑大１チャット UserName:卍スズ太郎☆彡.。 Date:2019-11-02 18:52:41.231390 Type：Edit]
+Before Edit:
+https://youtu.be/LbZ1sV1bxJY
+---------------------
+After Edit:
+https://youtu.be/LbZ1sV1bxJY
+
+[Channel:雑大１チャット UserName:卍スズ太郎☆彡.。 Date:2019-11-02 18:58:03.213980 Type：MessageDelete]
+
+
+[Channel:雑大１チャット UserName:卍スズ太郎☆彡.。 Date:2019-11-02 18:58:06.308672 Type：MessageDelete]
+
+
+[Channel:雑大１チャット UserName:卍スズ太郎☆彡.。 Date:2019-11-02 18:58:12.344195 Type：MessageDelete]
+
+
+[Channel:雑大１チャット UserName:卍スズ太郎☆彡.。 Date:2019-11-02 19:12:41.086644 Type：Edit]
+Before Edit:
+-p https://youtu.be/BIIiCRQhnWw
+---------------------
+After Edit:
+-p https://youtu.be/BIIiCRQhnWw
+
+[Channel:雑大１チャット UserName:Groovy Date:2019-11-02 19:12:41.255193 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:雑大１チャット UserName:Groovy Date:2019-11-02 19:16:50.843260 Type：MessageDelete]
+
+

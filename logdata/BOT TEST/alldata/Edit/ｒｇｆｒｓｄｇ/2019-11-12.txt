@@ -1,0 +1,35 @@
+[Channel:ｒｇｆｒｓｄｇ UserName:Member Count Date:2019-11-12 10:07:19.213257 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:ｒｇｆｒｓｄｇ UserName:Member Count Date:2019-11-12 10:07:43.987709 Type：Edit]
+Before Edit:
+<a:loading:482174540101976064> Creating category... 1/3
+---------------------
+After Edit:
+<a:loading:482174540101976064> Updating counters... 2/3
+
+[Channel:ｒｇｆｒｓｄｇ UserName:Member Count Date:2019-11-12 10:07:44.165210 Type：Edit]
+Before Edit:
+<a:loading:482174540101976064> Updating counters... 2/3
+---------------------
+After Edit:
+<a:loading:482174540101976064> Moving counters... 3/3
+
+[Channel:ｒｇｆｒｓｄｇ UserName:Member Count Date:2019-11-12 10:07:44.766632 Type：Edit]
+Before Edit:
+<a:loading:482174540101976064> Moving counters... 3/3
+---------------------
+After Edit:
+<:tickyes:525295754697375754> Everything has been set up!
+
+[Channel:ｒｇｆｒｓｄｇ UserName:Member Count Date:2019-11-12 10:10:01.875702 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

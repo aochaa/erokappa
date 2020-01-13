@@ -1,0 +1,42 @@
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 11:08:54.512059 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:DISBOARD Date:2019-11-10 11:13:13.402571 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:DISBOARD Date:2019-11-10 11:19:13.305141 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:DISBOARD Date:2019-11-10 11:23:54.495391 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:DISBOARD Date:2019-11-10 11:24:01.628111 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:DISBOARD Date:2019-11-10 11:32:50.751981 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 11:45:20.666756 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:DISBOARD Date:2019-11-10 11:51:02.630980 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 11:56:48.343217 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:ロズ Date:2019-11-10 13:50:53.869394 Type：MessageDelete]
+started
+
+[Channel:いらっしゃいませ UserName:ロズ Date:2019-11-10 13:52:08.417373 Type：MessageDelete]
+started
+
+[Channel:いらっしゃいませ UserName:ロズ Date:2019-11-10 13:54:08.601706 Type：MessageDelete]
+started
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 20:00:31.310274 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 20:00:49.616496 Type：MessageDelete]
+
+

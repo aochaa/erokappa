@@ -1,0 +1,6 @@
+[Channel:面接予約場所 UserName:そどぴぴ新 Date:2019-12-06 11:28:12.971878 Type：MessageContribution]
+お昼12～18時まで
+
+[Channel:面接予約場所 UserName:そどぴぴ新 Date:2019-12-06 11:30:45.177735 Type：MessageContribution]
+大丈夫です！了解しました！
+

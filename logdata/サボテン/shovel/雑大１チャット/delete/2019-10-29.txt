@@ -1,0 +1,3 @@
+[Channel:雑大１チャット UserName:shovel Date:2019-10-29 19:47:59.402946 Type：MessageDelete]
+
+

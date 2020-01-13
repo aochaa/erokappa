@@ -1,0 +1,52 @@
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:34:20.132493 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:34:55.737812 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:35:10.704526 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:35:13.831401 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:35:52.105861 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:36:15.073711 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:36:29.093476 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:36:55.147115 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:36:59.282290 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:37:02.461170 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:37:05.313529 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:37:11.476334 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:37:16.308244 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:37:19.937429 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:37:55.205807 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Dyno Date:2019-11-08 20:37:58.593409 Type：MessageDelete]
+
+

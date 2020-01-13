@@ -1,0 +1,276 @@
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:01:20.624263 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It.へ！
+{#面接手引き} をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:01:23.492064 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It.へ！
+{面接手引き}<#641146283658313751>をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:01:26.476218 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It.へ！
+{#面接手引き}をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:01:29.746701 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+ {面接手引き}をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:01:32.822420 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+{#面接手引き} をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:04:31.660870 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+ #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:18:18.178820 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+{面接手引き} をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:18:22.186795 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+下にある #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:18:24.038094 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+下にある {#channel面接手引き} をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:18:25.505821 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+下にある {#Interview guide} をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:18:27.351780 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+下にある  をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:18:31.668709 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+下にある  をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 00:18:35.068695 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+下にある  をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Tatsumaki Date:2019-11-08 00:20:40.089857 Type：MessageDelete]
+<:info:390511462361202688> | **Welcome Messages - #いらっしゃいませ**
+
+```rb
+Setup welcome (user join) messages using this menu
+
+Welcome messages are disabled on #いらっしゃいませ
+
+[1] # Enable welcome messages
+[2] # View channels with welcome messages enabled
+[3] # Set a welcome message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:いらっしゃいませ UserName:Tatsumaki Date:2019-11-08 00:21:06.937700 Type：MessageDelete]
+<:info:390511462361202688> | **Welcome Messages - #いらっしゃいませ**
+
+```rb
+Setup welcome (user join) messages using this menu
+
+Welcome messages are enabled on #いらっしゃいませ
+
+[1] # Disable welcome messages
+[2] # View channels with welcome messages enabled
+[3] # Set a welcome message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:いらっしゃいませ UserName:Tatsumaki Date:2019-11-08 00:21:24.658808 Type：MessageDelete]
+The new welcome message for **As You Like It.** was set as `exit`!
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:36:42.374901 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:36:44.758375 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:36:48.843065 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:36:54.089021 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:37:00.320086 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:02:36.600493 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:02:51.150320 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:02:54.047247 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:02:58.678446 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:03:01.158469 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:10:08.385038 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 01:27:58.787868 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+下にある {#面接手引き}<#641146283658313751> をお読みになり面接をご希望の方は、ご連絡ください！
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:41:08.156377 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:41:11.536478 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:41:15.780118 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:41:19.862556 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 01:45:50.993499 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+__**下にある #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！**__
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 01:45:53.679335 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+__下にある#面接手引きをお読みになり面接をご希望の方は、ご連絡ください！__
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 17:03:54.664438 Type：MessageDelete]
+<@628581086422761482>さんようこそ！As You Like It. へ！
+__**下にある #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！**__
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 17:03:57.456894 Type：MessageDelete]
+<@526377146755842078>さんようこそ！As You Like It. へ！
+__**下にある #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！**__
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 17:04:00.193411 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 17:04:03.777229 Type：MessageDelete]
+<@605729787050328094>さんようこそ！As You Like It. へ！
+__**下にある #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！**__
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 17:04:06.686667 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 17:04:09.530240 Type：MessageDelete]
+<@605729787050328094>さんようこそ！As You Like It. へ！
+__**下にある #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！**__
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 17:33:15.026483 Type：MessageDelete]
+<@605729787050328094>さんようこそ！As You Like It. へ！
+__**下にある #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！**__
+
+!welcome!
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 17:34:34.164164 Type：MessageDelete]
+Ping: 225ms | Websocket: 41ms
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 17:41:04.663727 Type：MessageDelete]
+<@605729787050328094>さんようこそ！As You Like It. へ！
+__**下にある #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！**__
+
+!welcome!
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 17:41:08.301591 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 17:41:34.089199 Type：MessageDelete]
+<@605729787050328094>さんようこそ！As You Like It. へ！
+__**下にある #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！**__
+
+!welcome!
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 17:41:37.117752 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 17:41:49.234459 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 19:46:16.743582 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 19:46:24.442288 Type：MessageDelete]
+<@605729787050328094>さんようこそ！As You Like It. へ！
+__**下にある #面接手引き をお読みになり面接をご希望の方は、ご連絡ください！**__
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 19:46:27.184140 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 20:17:31.501614 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:24:56.884057 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 20:25:00.308239 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 20:25:03.449420 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:25:06.909853 Type：MessageDelete]
+ようこそAs You Like It.へ！
+{#面接手引き} を読んで、面接希望であれば手順に沿ってご連絡してください！
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 20:28:35.068146 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:28:38.280088 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 20:28:42.022883 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:28:45.331699 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 20:28:48.399470 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:28:51.536047 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 20:28:55.583081 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:28:58.813023 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 21:15:23.790722 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:15:27.245052 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 21:15:30.222449 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:15:32.993326 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 21:15:36.452714 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:15:42.969202 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 21:15:45.934752 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:15:49.262053 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:16:56.423444 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:17:46.337999 Type：MessageDelete]
+
+

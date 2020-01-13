@@ -1,0 +1,16 @@
+[Channel:要注意人物 UserName:Tatsumaki Date:2019-11-08 10:29:07.855753 Type：MessageDelete]
+<:info:390511462361202688> | **Channel Ignore Menu - #要注意人物**
+
+```rb
+Ignore all standard commands in this channel using this menu
+
+All standard commands cannot be used on ignored channels
+This channel (要注意人物) is not ignored
+
+[1] # Ignore channel: 要注意人物.
+[2] # Show ignored channels
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+

@@ -1,0 +1,100 @@
+[Channel:面接予約場所 UserName:ジン Date:2019-11-10 18:43:01.210188 Type：MessageDelete]
+<@309638245808078849>
+18時、了解しました。
+
+[Channel:面接予約場所 UserName:ジン Date:2019-11-10 18:43:06.770205 Type：MessageDelete]
+<@309638245808078849>
+了解しました。
+
+[Channel:面接予約場所 UserName:ジン Date:2019-11-10 18:43:07.445399 Type：MessageDelete]
+<@309638245808078849>
+はい！
+
+[Channel:面接予約場所 UserName:ジン Date:2019-11-10 18:43:10.057603 Type：MessageDelete]
+<@309638245808078849>
+いつでも面接可能です。
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:54:46.281042 Type：MessageDelete]
+今日18：00～
+明日　不明なので再度記入します
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:54:58.527580 Type：MessageDelete]
+<@309638245808078849> 　はい　よろしくおねがいします。
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:55:05.941449 Type：MessageDelete]
+<@309638245808078849> 　了解しました
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:55:19.626368 Type：MessageDelete]
+はい
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:55:24.564504 Type：MessageDelete]
+あ
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:55:30.184027 Type：MessageDelete]
+あ　います
+
+[Channel:面接予約場所 UserName:リュウ Date:2019-11-10 19:34:29.677066 Type：MessageDelete]
+はじめまして、面接お願いします
+21時以降はOKということなので、21時でお願いいたします
+
+[Channel:面接予約場所 UserName:リュウ Date:2019-11-10 21:24:51.334124 Type：MessageDelete]
+<@309638245808078849> 誠に申し訳ありません、よろしくお願いいたします
+
+[Channel:面接予約場所 UserName:リュウ Date:2019-11-10 21:24:57.307455 Type：MessageDelete]
+<@309638245808078849> 今日の面接キャンセルお願いいたします
+誠に申し訳ありません
+
+[Channel:面接予約場所 UserName:リュウ Date:2019-11-10 21:25:00.503608 Type：MessageDelete]
+<@309638245808078849> 申し訳ありません 背後事情が発生してしまいました
+
+[Channel:面接予約場所 UserName:？？ Date:2019-11-10 21:25:06.700001 Type：MessageDelete]
+<@309638245808078849> 
+返信ありがとうございます、大丈夫です。
+よろしくお願いします！
+
+[Channel:面接予約場所 UserName:？？ Date:2019-11-10 21:25:13.252072 Type：MessageDelete]
+はじめまして、こんばんは。
+面接希望です！
+本日21:00～23:00の間にお願いしたいです。
+
+[Channel:面接予約場所 UserName:リュウ Date:2019-11-10 21:25:16.689877 Type：MessageDelete]
+<@309638245808078849> はい、大丈夫です
+よろしくお願いいたします
+
+[Channel:面接予約場所 UserName:リュウ Date:2019-11-10 21:25:23.715824 Type：MessageDelete]
+<@518365679720857601>
+はじめまして、面接希望させていただきます
+今から21:30までを希望させていただきます
+ご検討よろしくお願いいたします
+
+[Channel:面接予約場所 UserName:ゆき殿 Date:2019-11-10 22:23:18.283161 Type：MessageDelete]
+<@309638245808078849> 
+おじゃまします
+
+[Channel:面接予約場所 UserName:そら Date:2019-11-10 22:23:39.415816 Type：MessageDelete]
+<@309638245808078849> 
+はい、では22時からお願いします^ ^
+
+[Channel:面接予約場所 UserName:ゆき殿 Date:2019-11-10 22:23:47.296676 Type：MessageDelete]
+<@309638245808078849> 
+承知しました。
+２２時頃にお伺いしますね。
+
+[Channel:面接予約場所 UserName:ゆき殿 Date:2019-11-10 22:24:04.478791 Type：MessageDelete]
+お初にお目にかかります。
+面接希望を希望しております。
+本日の22時ごろを希望しております。
+ご検討のほどよろしくお願いします。
+
+[Channel:面接予約場所 UserName:佐藤たなか Date:2019-11-10 23:16:33.594421 Type：MessageDelete]
+<@!518365679720857601> 23:00～面接希望です
+
+[Channel:面接予約場所 UserName:佐藤たなか Date:2019-11-10 23:16:45.246576 Type：MessageDelete]
+声が聞こえないです
+
+[Channel:面接予約場所 UserName:佐藤たなか Date:2019-11-10 23:16:48.238025 Type：MessageDelete]
+聞こえますか？
+
+[Channel:面接予約場所 UserName:佐藤たなか Date:2019-11-10 23:16:59.808579 Type：MessageDelete]
+まだ聞こえません
+

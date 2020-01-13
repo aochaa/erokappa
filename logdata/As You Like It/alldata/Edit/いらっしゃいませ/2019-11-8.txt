@@ -1,0 +1,259 @@
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:33:20.591416 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:33:50.604905 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:33:53.008015 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:34:11.994110 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:34:16.659779 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:34:27.086965 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:34:54.574487 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:35:16.327498 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:35:18.072021 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 00:51:05.157339 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 00:53:31.786627 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 00:57:27.702490 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:00:00.007987 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:01:58.895046 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:02:47.277084 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:09:34.713324 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:10:00.497470 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:34:09.517588 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:36:52.809361 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:37:43.595157 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:39:06.815434 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 16:53:44.096505 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 16:57:39.060731 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Yggdrasil Date:2019-11-08 17:34:27.560851 Type：Edit]
+Before Edit:
+Ping: ...
+---------------------
+After Edit:
+Ping: 225ms | Websocket: 41ms
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:23:56.831069 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:24:53.304115 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:25:29.828138 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:26:29.231517 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:26:46.724089 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 20:27:58.158875 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:09:22.745762 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:10:06.124378 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:11:34.410675 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:12:11.401445 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:16:09.728211 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 21:17:19.925266 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-08 22:18:09.624132 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

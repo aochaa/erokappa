@@ -1,0 +1,3 @@
+[Channel:prince-profile UserName:テスト用アカウント Date:2019-11-04 01:36:56.046686 Type：MessageDelete]
+あいうえお
+

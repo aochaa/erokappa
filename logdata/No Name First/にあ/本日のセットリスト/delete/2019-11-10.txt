@@ -1,0 +1,12 @@
+[Channel:本日のセットリスト UserName:にあ Date:2019-11-10 10:02:19.650322 Type：MessageDelete]
+!p Unity
+
+[Channel:本日のセットリスト UserName:にあ Date:2019-11-10 10:21:29.364348 Type：MessageDelete]
+!dis
+
+[Channel:本日のセットリスト UserName:にあ Date:2019-11-10 10:21:32.056514 Type：MessageDelete]
+!bye
+
+[Channel:本日のセットリスト UserName:にあ Date:2019-11-10 10:21:36.740212 Type：MessageDelete]
+!dc
+

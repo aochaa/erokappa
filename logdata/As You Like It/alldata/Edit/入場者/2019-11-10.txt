@@ -1,0 +1,70 @@
+[Channel:入場者 UserName:Dyno Date:2019-11-10 00:04:59.326603 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-10 00:17:32.562720 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-10 01:03:03.966714 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-10 01:41:53.841167 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-10 02:54:41.198857 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-10 09:24:08.399867 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-10 11:02:17.991165 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-10 13:48:20.562614 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-10 16:38:01.576721 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-10 17:58:41.475728 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

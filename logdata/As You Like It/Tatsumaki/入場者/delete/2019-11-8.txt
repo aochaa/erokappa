@@ -1,0 +1,72 @@
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 00:21:53.167761 Type：MessageDelete]
+<:info:390511462361202688> | **Welcome Messages - #入場者**
+
+```rb
+Setup welcome (user join) messages using this menu
+
+Welcome messages are disabled on #入場者
+
+[1] # Enable welcome messages
+[2] # View channels with welcome messages enabled
+[3] # Set a welcome message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 00:28:58.651046 Type：MessageDelete]
+exit
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 00:43:08.609382 Type：MessageDelete]
+exit
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 00:46:12.326091 Type：MessageDelete]
+exit
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 00:53:17.454748 Type：MessageDelete]
+exit
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 01:03:06.193979 Type：MessageDelete]
+exit
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 01:03:13.730914 Type：MessageDelete]
+exit
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 01:03:18.740459 Type：MessageDelete]
+exit
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 01:03:21.875600 Type：MessageDelete]
+exit
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 01:03:47.468806 Type：MessageDelete]
+<:info:390511462361202688> | **Welcome Messages - #入場者**
+
+```rb
+Setup welcome (user join) messages using this menu
+
+Welcome messages are enabled on #入場者
+
+[1] # Disable welcome messages
+[2] # View channels with welcome messages enabled
+[3] # Set a welcome message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-08 01:05:20.139871 Type：MessageDelete]
+<:info:390511462361202688> | **Welcome Messages - #入場者**
+
+```rb
+Setup welcome (user join) messages using this menu
+
+Welcome messages are enabled on #入場者
+
+[1] # Disable welcome messages
+[2] # View channels with welcome messages enabled
+[3] # Set a welcome message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+

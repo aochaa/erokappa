@@ -1,0 +1,9 @@
+[Channel:入退出ログ UserName:Carl-bot Logging Date:2019-11-09 10:47:50.736162 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Carl-bot Logging Date:2019-11-09 10:47:55.356562 Type：MessageDelete]
+
+
+[Channel:入退出ログ UserName:Carl-bot Logging Date:2019-11-09 10:47:58.716171 Type：MessageDelete]
+
+

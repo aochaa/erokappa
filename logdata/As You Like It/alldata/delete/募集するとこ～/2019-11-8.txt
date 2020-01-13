@@ -1,0 +1,32 @@
+[Channel:•åW‚·‚é‚Æ‚±` UserName:Tatsumaki Date:2019-11-08 00:31:52.691035 TypeFMessageDelete]
+<:info:390511462361202688> | **Channel Ignore Menu - #•åW‚·‚é‚Æ‚±`**
+
+```rb
+Ignore all standard commands in this channel using this menu
+
+All standard commands cannot be used on ignored channels
+This channel (•åW‚·‚é‚Æ‚±`) is not ignored
+
+[1] # Ignore channel: •åW‚·‚é‚Æ‚±`.
+[2] # Show ignored channels
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:•åW‚·‚é‚Æ‚±` UserName:Tatsumaki Date:2019-11-08 00:32:23.017083 TypeFMessageDelete]
+<:info:390511462361202688> | **Channel Ignore Menu - #•åW‚·‚é‚Æ‚±`**
+
+```rb
+Ignore all standard commands in this channel using this menu
+
+All standard commands cannot be used on ignored channels
+This channel (•åW‚·‚é‚Æ‚±`) is ignored
+
+[1] # Un-ignore channel: •åW‚·‚é‚Æ‚±`.
+[2] # Show ignored channels
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+

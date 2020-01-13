@@ -1,0 +1,14 @@
+[Channel:本日のセットリスト UserName:ゆりあ Date:2019-11-09 18:05:48.596880 Type：Edit]
+Before Edit:
+-play https://youtu.be/bCt-jPWd4QE
+---------------------
+After Edit:
+-play https://youtu.be/bCt-jPWd4QE
+
+[Channel:本日のセットリスト UserName:ゆりあ Date:2019-11-09 18:26:06.940833 Type：Edit]
+Before Edit:
+-play https://youtu.be/MSv7NbfbtU8
+---------------------
+After Edit:
+-play https://youtu.be/MSv7NbfbtU8
+

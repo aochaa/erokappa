@@ -1,0 +1,14 @@
+[Channel:サーバールール UserName:Zira Date:2019-11-05 13:44:30.438734 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:サーバールール UserName:Zira Date:2019-11-05 13:45:06.089541 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

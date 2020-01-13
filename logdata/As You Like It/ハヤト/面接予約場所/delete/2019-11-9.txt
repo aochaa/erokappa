@@ -1,0 +1,10 @@
+[Channel:面接予約場所 UserName:ハヤト Date:2019-11-09 21:29:11.815312 Type：MessageDelete]
+面接は18時以降が望ましいです！
+日付けはお任せします
+
+[Channel:面接予約場所 UserName:ハヤト Date:2019-11-09 21:29:18.894050 Type：MessageDelete]
+<@309638245808078849> 大丈夫です！
+
+[Channel:面接予約場所 UserName:ハヤト Date:2019-11-09 21:29:30.367114 Type：MessageDelete]
+<@309638245808078849> 了解しました！
+

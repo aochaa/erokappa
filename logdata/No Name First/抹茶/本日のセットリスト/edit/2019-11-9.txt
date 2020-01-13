@@ -1,0 +1,14 @@
+[Channel:本日のセットリスト UserName:抹茶 Date:2019-11-09 17:40:47.291943 Type：Edit]
+Before Edit:
+-p https://www.youtube.com/playlist?list=PLwyNXClbwWGuaV0TylIQkuYkubyA3hUrb
+---------------------
+After Edit:
+-p https://www.youtube.com/playlist?list=PLwyNXClbwWGuaV0TylIQkuYkubyA3hUrb
+
+[Channel:本日のセットリスト UserName:抹茶 Date:2019-11-09 19:04:18.999070 Type：Edit]
+Before Edit:
+-p https://www.youtube.com/playlist?list=PLwyNXClbwWGuaV0TylIQkuYkubyA3hUrb
+---------------------
+After Edit:
+-p https://www.youtube.com/playlist?list=PLwyNXClbwWGuaV0TylIQkuYkubyA3hUrb
+

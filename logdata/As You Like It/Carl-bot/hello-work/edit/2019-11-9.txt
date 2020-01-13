@@ -1,0 +1,68 @@
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:06:16.516165 Type：Edit]
+Before Edit:
+Alright, the message will look like this. Next up we will add roles
+The format for adding roles is emoji then the name of the role. When you're done, type 'done'
+**Example:** ```:smile: league of legends```
+---------------------
+After Edit:
+Alright, the message will look like this. Next up we will add roles
+The format for adding roles is emoji then the name of the role. When you're done, type 'done'
+**Example:** ```:smile: league of legends```
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:09:31.344809 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:09:31.606835 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:09:34.930245 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:12:21.609136 Type：Edit]
+Before Edit:
+Alright, the message will look like this. Next up we will add roles
+The format for adding roles is emoji then the name of the role. When you're done, type 'done'
+**Example:** ```:smile: league of legends```
+---------------------
+After Edit:
+Alright, the message will look like this. Next up we will add roles
+The format for adding roles is emoji then the name of the role. When you're done, type 'done'
+**Example:** ```:smile: league of legends```
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:15:04.721977 Type：Edit]
+Before Edit:
+Alright, the message will look like this. Next up we will add roles
+The format for adding roles is emoji then the name of the role. When you're done, type 'done'
+**Example:** ```:smile: league of legends```
+---------------------
+After Edit:
+Alright, the message will look like this. Next up we will add roles
+The format for adding roles is emoji then the name of the role. When you're done, type 'done'
+**Example:** ```:smile: league of legends```
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:15:17.080938 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:hello-work UserName:Carl-bot Date:2019-11-09 10:15:17.181217 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

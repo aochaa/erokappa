@@ -1,0 +1,35 @@
+[Channel:Ç¢ÇÁÇ¡ÇµÇ·Ç¢Ç‹Çπ UserName:Tatsumaki Date:2019-11-08 00:20:40.089857 TypeÅFMessageDelete]
+<:info:390511462361202688> | **Welcome Messages - #Ç¢ÇÁÇ¡ÇµÇ·Ç¢Ç‹Çπ**
+
+```rb
+Setup welcome (user join) messages using this menu
+
+Welcome messages are disabled on #Ç¢ÇÁÇ¡ÇµÇ·Ç¢Ç‹Çπ
+
+[1] # Enable welcome messages
+[2] # View channels with welcome messages enabled
+[3] # Set a welcome message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:Ç¢ÇÁÇ¡ÇµÇ·Ç¢Ç‹Çπ UserName:Tatsumaki Date:2019-11-08 00:21:06.937700 TypeÅFMessageDelete]
+<:info:390511462361202688> | **Welcome Messages - #Ç¢ÇÁÇ¡ÇµÇ·Ç¢Ç‹Çπ**
+
+```rb
+Setup welcome (user join) messages using this menu
+
+Welcome messages are enabled on #Ç¢ÇÁÇ¡ÇµÇ·Ç¢Ç‹Çπ
+
+[1] # Disable welcome messages
+[2] # View channels with welcome messages enabled
+[3] # Set a welcome message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:Ç¢ÇÁÇ¡ÇµÇ·Ç¢Ç‹Çπ UserName:Tatsumaki Date:2019-11-08 00:21:24.658808 TypeÅFMessageDelete]
+The new welcome message for **As You Like It.** was set as `exit`!
+

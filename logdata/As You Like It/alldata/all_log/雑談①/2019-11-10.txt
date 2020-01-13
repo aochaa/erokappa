@@ -1,0 +1,21 @@
+[Channel:G’k‡@ UserName:akira Date:2019-11-10 20:53:23.782189 TypeFEdit]
+Before Edit:
+https://store.steampowered.com/search/?snr=1_4_4__12&term=%E3%83%86%E3%83%A9%E3%83%AA%E3%82%A2
+---------------------
+After Edit:
+https://store.steampowered.com/search/?snr=1_4_4__12&term=%E3%83%86%E3%83%A9%E3%83%AA%E3%82%A2
+
+[Channel:G’k‡@ UserName:akira Date:2019-11-10 20:54:15.506265 TypeFEdit]
+Before Edit:
+https://store.steampowered.com/app/105600/Terraria/
+---------------------
+After Edit:
+https://store.steampowered.com/app/105600/Terraria/
+
+[Channel:G’k‡@ UserName:‚Ü‚â‚â Date:2019-11-10 23:18:58.265684 TypeFEdit]
+Before Edit:
+https://twitter.com/fusigitube/status/1193112624575107072?s=12
+---------------------
+After Edit:
+https://twitter.com/fusigitube/status/1193112624575107072?s=12
+

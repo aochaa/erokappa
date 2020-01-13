@@ -1,0 +1,240 @@
+[Channel:入場者 UserName:Zira Date:2019-11-09 02:19:48.799070 Type：MessageDelete]
+<@!628581086422761482>(テスト用アカウント#7816)が入ってきたよ～！
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 02:19:59.740765 Type：MessageDelete]
+<@!605729787050328094>(GAO#5167)が入ってきたよ～！
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 02:22:03.983824 Type：MessageDelete]
+<@!605729787050328094>(GAO#5167)が入ってきたよ～！
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 03:05:25.109562 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:12:00.488963 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:17:00.174608 Type：MessageDelete]
+<@!605729787050328094>(GAO#5167)が入ってきたよ～！
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 03:17:03.397587 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:17:15.224708 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:27:07.161625 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:27:31.366532 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:27:53.761160 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:28:12.152629 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:28:16.287445 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:28:23.394086 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:28:32.933556 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 03:28:40.567576 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 03:28:52.193775 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 03:28:53.547789 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 03:28:54.402745 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 09:34:58.090374 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 09:35:11.018652 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 09:35:22.181932 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 09:36:10.209772 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 09:36:13.938508 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Zira Date:2019-11-09 09:36:17.047341 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 09:54:03.272229 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:01:56.002113 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:31:11.266225 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:31:14.781311 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:32:10.816605 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:32:11.733192 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:49:32.318616 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:49:35.980471 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:49:40.068390 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:49:45.938212 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:49:50.002259 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:49:53.605887 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 10:49:56.750002 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 13:45:50.136227 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 13:53:21.604689 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 19:31:22.371887 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 20:16:37.054321 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 20:37:56.657033 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 20:38:26.876509 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 20:48:53.671558 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 22:02:18.288118 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 23:06:46.746614 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-09 23:50:59.245996 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

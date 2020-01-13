@@ -1,0 +1,21 @@
+[Channel:bot UserName:Groovy Date:2019-11-06 13:45:16.559614 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-06 13:47:18.939587 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-06 13:47:19.147136 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-06 13:52:12.663538 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-06 14:07:42.873002 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-06 14:29:41.896441 Type：MessageDelete]
+
+
+[Channel:bot UserName:Groovy Date:2019-11-06 14:45:12.157049 Type：MessageDelete]
+
+

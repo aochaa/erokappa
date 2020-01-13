@@ -1,0 +1,16 @@
+[Channel:prince-profile UserName:Tatsumaki Date:2019-11-08 00:09:17.710015 TypeÅFMessageDelete]
+<:info:390511462361202688> | **Channel Ignore Menu - #prince-profile**
+
+```rb
+Ignore all standard commands in this channel using this menu
+
+All standard commands cannot be used on ignored channels
+This channel (prince-profile) is not ignored
+
+[1] # Ignore channel: prince-profile.
+[2] # Show ignored channels
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+

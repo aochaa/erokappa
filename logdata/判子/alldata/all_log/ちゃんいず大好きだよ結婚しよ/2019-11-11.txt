@@ -1,0 +1,10 @@
+[Channel:ちゃんいず大好きだよ結婚しよ UserName:いずみ Date:2019-11-11 18:32:39.412237 Type：Edit]
+Before Edit:
+https://youtu.be/fRYY_M8QlXI
+---------------------
+After Edit:
+https://youtu.be/fRYY_M8QlXI
+
+[Channel:ちゃんいず大好きだよ結婚しよ UserName:いずみ Date:2019-11-11 18:32:48.086005 Type：MessageDelete]
+https://youtu.be/fRYY_M8QlXI
+

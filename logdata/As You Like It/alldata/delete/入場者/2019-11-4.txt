@@ -1,0 +1,164 @@
+[Channel:入場者 UserName:テスト用アカウント Date:2019-11-04 01:16:59.052219 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-04 02:08:42.086867 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-04 02:10:35.624940 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-04 02:10:39.681330 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-04 02:11:11.442335 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-04 02:13:11.567787 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-04 02:13:15.960116 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-04 02:26:50.680029 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-04 02:31:48.286679 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Dyno Date:2019-11-04 02:37:05.415029 Type：MessageDelete]
+
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-04 12:27:46.428636 Type：MessageDelete]
+<:info:390511462361202688> | **Welcome Messages - #入場者**
+
+```rb
+Setup welcome (user join) messages using this menu
+
+Welcome messages are disabled on #入場者
+
+[1] # Enable welcome messages
+[2] # View channels with welcome messages enabled
+[3] # Set a welcome message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-04 12:27:57.446251 Type：MessageDelete]
+<:info:390511462361202688> | **Welcome Messages - #入場者**
+
+```rb
+Setup welcome (user join) messages using this menu
+
+Welcome messages are enabled on #入場者
+
+[1] # Disable welcome messages
+[2] # View channels with welcome messages enabled
+[3] # Set a welcome message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-04 12:28:52.501257 Type：MessageDelete]
+<:info:390511462361202688> | **Welcome Messages - #入場者**
+
+```rb
+Setup welcome (user join) messages using this menu
+
+Welcome messages are enabled on #入場者
+
+[1] # Disable welcome messages
+[2] # View channels with welcome messages enabled
+[3] # Set a welcome message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-04 12:30:40.997797 Type：MessageDelete]
+<:info:390511462361202688> | **Goodbye Messages - #入場者**
+
+```rb
+Setup goodbye (user leave) messages using this menu
+
+Goodbye messages are disabled in 入場者
+
+[1] # Enable goodbye messages
+[2] # View channels with goodbye messages enabled
+[3] # Set a goodbye message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-04 12:30:49.698903 Type：MessageDelete]
+<:info:390511462361202688> | **Goodbye Messages - #入場者**
+
+```rb
+Setup goodbye (user leave) messages using this menu
+
+Goodbye messages are enabled in 入場者
+
+[1] # Disable goodbye messages
+[2] # View channels with goodbye messages enabled
+[3] # Set a goodbye message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-04 12:33:06.605738 Type：MessageDelete]
+<:info:390511462361202688> | **Persistence Settings Menu - <#640550151814905857>**
+
+```rb
+Change persistence settings from this menu
+
+Your users gain 3-5 points & 10-20 score per message
+XP, Credits & Points gain in this channel is Enabled
+Level-Up messages in this channel are Enabled
+
+[1] # Edit persistence settings
+[2] # Edit level-up messages settings
+[3] # Configure guild points range per message
+[4] # Configure guild score range per message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-04 12:33:14.023641 Type：MessageDelete]
+<:info:390511462361202688> | **Persistence Settings Menu - <#640550151814905857>**
+
+```rb
+Change persistence settings from this menu
+
+Your users gain 3-5 points & 10-20 score per message
+XP, Credits & Points gain in this channel is Enabled
+Level-Up messages in this channel are Enabled
+
+[1] # Edit persistence settings
+[2] # Edit level-up messages settings
+[3] # Configure guild points range per message
+[4] # Configure guild score range per message
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+
+[Channel:入場者 UserName:Tatsumaki Date:2019-11-04 12:33:24.076591 Type：MessageDelete]
+<:info:390511462361202688> | **Level up messages Settings Menu**
+
+```rb
+Please select the action you would like to take
+
+Level-Up messages in this channel are Enabled
+
+[1] # Disable level up messages in this channel
+[2] # Enable level up messages for all current channels on the server.
+[3] # Disable level up messages for all current channels on the server.
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+

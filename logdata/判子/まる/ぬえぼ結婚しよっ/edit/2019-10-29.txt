@@ -1,0 +1,14 @@
+[Channel:‚Ê‚¦‚ÚŒ‹¥‚µ‚æ‚Á UserName:‚Ü‚é Date:2019-10-29 14:50:54.393440 TypeFEdit]
+Before Edit:
+‚±‚ê‚¾‚©Apple‚Í
+---------------------
+After Edit:
+‚±‚ê‚¾‚ç‚©Apple‚Í
+
+[Channel:‚Ê‚¦‚ÚŒ‹¥‚µ‚æ‚Á UserName:‚Ü‚é Date:2019-10-29 15:41:43.302764 TypeFEdit]
+Before Edit:
+‚±‚ê‚¾‚ç‚©Apple‚Í
+---------------------
+After Edit:
+‚±‚ê‚¾‚©‚çApple‚Í
+

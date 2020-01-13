@@ -1,0 +1,7 @@
+[Channel:Ç¢ÇÁÇ¡ÇµÇ·Ç¢Ç‹Çπ UserName:Yggdrasil Date:2019-11-08 17:34:27.560851 TypeÅFEdit]
+Before Edit:
+Ping: ...
+---------------------
+After Edit:
+Ping: 225ms | Websocket: 41ms
+

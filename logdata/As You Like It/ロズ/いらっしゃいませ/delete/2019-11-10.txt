@@ -1,0 +1,9 @@
+[Channel:いらっしゃいませ UserName:ロズ Date:2019-11-10 13:50:53.869394 Type：MessageDelete]
+started
+
+[Channel:いらっしゃいませ UserName:ロズ Date:2019-11-10 13:52:08.417373 Type：MessageDelete]
+started
+
+[Channel:いらっしゃいませ UserName:ロズ Date:2019-11-10 13:54:08.601706 Type：MessageDelete]
+started
+

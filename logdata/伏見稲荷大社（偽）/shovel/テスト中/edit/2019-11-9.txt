@@ -1,0 +1,21 @@
+[Channel:テスト中 UserName:shovel Date:2019-11-09 22:55:33.221934 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:テスト中 UserName:shovel Date:2019-11-09 22:55:35.155874 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:テスト中 UserName:shovel Date:2019-11-09 22:55:50.607549 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

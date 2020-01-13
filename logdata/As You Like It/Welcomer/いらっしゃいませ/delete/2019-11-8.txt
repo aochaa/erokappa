@@ -1,0 +1,36 @@
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:02:36.600493 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:02:51.150320 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:02:54.047247 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:02:58.678446 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:03:01.158469 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:10:08.385038 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:41:08.156377 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:41:11.536478 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:41:15.780118 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 01:41:19.862556 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 17:04:00.193411 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Welcomer Date:2019-11-08 17:04:06.686667 Type：MessageDelete]
+
+

@@ -1,0 +1,80 @@
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 02:06:41.746337 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 03:03:05.690894 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 03:03:18.963824 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 04:50:12.889483 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 08:02:19.180696 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 09:36:05.210351 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 11:32:38.038671 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 11:32:41.549301 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 11:32:43.135359 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 11:32:45.994688 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 11:56:22.821394 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:入退場者 UserName:Dyno Date:2019-11-12 12:14:23.447736 Type：MessageDelete]
+
+

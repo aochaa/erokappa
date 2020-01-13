@@ -1,0 +1,11 @@
+[Channel:乾杯する！ UserName:まーくん Date:2019-11-06 21:47:48.909722 Type：Edit]
+Before Edit:
+もしかしてもしかして
+アトリエですか
+---------------------
+After Edit:
+お邪魔してよろしいかしら
+
+[Channel:乾杯する！ UserName:まーくん Date:2019-11-06 21:47:54.970318 Type：MessageDelete]
+お邪魔してよろしいかしら
+

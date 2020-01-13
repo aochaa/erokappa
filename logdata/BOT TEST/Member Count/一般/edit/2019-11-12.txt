@@ -1,0 +1,56 @@
+[Channel:一般 UserName:Member Count Date:2019-11-12 10:26:28.219023 Type：Edit]
+Before Edit:
+<a:loading:482174540101976064> Creating category... 1/3
+---------------------
+After Edit:
+<a:loading:482174540101976064> Updating counters... 2/3
+
+[Channel:一般 UserName:Member Count Date:2019-11-12 10:26:28.473343 Type：Edit]
+Before Edit:
+<a:loading:482174540101976064> Updating counters... 2/3
+---------------------
+After Edit:
+<a:loading:482174540101976064> Moving counters... 3/3
+
+[Channel:一般 UserName:Member Count Date:2019-11-12 10:26:28.849337 Type：Edit]
+Before Edit:
+<a:loading:482174540101976064> Moving counters... 3/3
+---------------------
+After Edit:
+<:tickyes:525295754697375754> Everything has been set up!
+
+[Channel:一般 UserName:Member Count Date:2019-11-12 10:26:37.045708 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:一般 UserName:Member Count Date:2019-11-12 10:27:32.997055 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:一般 UserName:Member Count Date:2019-11-12 10:28:51.627499 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:一般 UserName:Member Count Date:2019-11-12 10:29:00.883650 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:一般 UserName:Member Count Date:2019-11-12 11:07:05.124880 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

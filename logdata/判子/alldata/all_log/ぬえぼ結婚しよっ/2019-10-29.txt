@@ -1,0 +1,30 @@
+[Channel:ぬえぼ結婚しよっ UserName:ぬえぼ Date:2019-10-29 09:42:42.064400 Type：Edit]
+Before Edit:
+感じ出来なさすぎて恥ずかしい…
+---------------------
+After Edit:
+漢字出来なさすぎて恥ずかしい…
+
+[Channel:ぬえぼ結婚しよっ UserName:ぬえぼ Date:2019-10-29 13:38:19.924211 Type：MessageDelete]
+イオンのフードコートに住みたい
+
+[Channel:ぬえぼ結婚しよっ UserName:まる Date:2019-10-29 14:50:54.393440 Type：Edit]
+Before Edit:
+これだかAppleは
+---------------------
+After Edit:
+これだらかAppleは
+
+[Channel:ぬえぼ結婚しよっ UserName:まる Date:2019-10-29 15:41:43.302764 Type：Edit]
+Before Edit:
+これだらかAppleは
+---------------------
+After Edit:
+これだからAppleは
+
+[Channel:ぬえぼ結婚しよっ UserName:ぬえぼ Date:2019-10-29 15:45:38.506264 Type：MessageDelete]
+マインスイーパ
+
+[Channel:ぬえぼ結婚しよっ UserName:ぬえぼ Date:2019-10-29 15:57:23.773159 Type：MessageDelete]
+マイクwp
+

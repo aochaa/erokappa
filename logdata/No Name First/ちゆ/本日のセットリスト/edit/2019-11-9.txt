@@ -1,0 +1,7 @@
+[Channel:本日のセットリスト UserName:ちゆ Date:2019-11-09 21:20:43.295516 Type：Edit]
+Before Edit:
+!p https://youtu.be/ubuH0HDgO-8
+---------------------
+After Edit:
+!p https://youtu.be/ubuH0HDgO-8
+

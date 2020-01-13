@@ -1,0 +1,7 @@
+[Channel:ゆーさん結婚しよっ！ UserName:うい Date:2019-11-02 19:48:31.913604 Type：Edit]
+Before Edit:
+だいじょうぶれ
+---------------------
+After Edit:
+だいじょうぶ！
+

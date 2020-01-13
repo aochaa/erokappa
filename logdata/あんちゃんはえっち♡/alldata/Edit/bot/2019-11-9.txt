@@ -1,0 +1,605 @@
+[Channel:bot UserName:Groovy Date:2019-11-09 15:32:03.204270 Type：Edit]
+Before Edit:
+```nimrod
+ 1) 大橋トリオ / HONEY                6m 6s  
+ 2) 大橋トリオ / SHE                  3m 20s 
+ 3) 大橋トリオ『A　BIRD』                5m 43s 
+ 4) 大橋トリオ / ラブリー                 3m 37s 
+ 5) 大橋トリオ / モンスター ft.秦 基博        3m 27s 
+ 6) 大橋トリオ / 「サリー」-episode3（少女編）- 5m 3s  
+ 7) 大橋トリオ / 「タイミング」              3m 19s 
+ 8) 大橋トリオ / 「VENUS」              4m 37s 
+ 9) はじまりの唄                       4m 16s 
+10) 君は悪魔か少女になって / 大橋トリオ          5m 9s  
+11) COLORS                       4m 7s  
+                                        
+  5 more track(s)                       
+```
+---------------------
+After Edit:
+```nimrod
+ 6) 大橋トリオ / 「サリー」-episode3（少女編）-                       5m 3s  
+ 7) 大橋トリオ / 「タイミング」                                    3m 19s 
+ 8) 大橋トリオ / 「VENUS」                                    4m 37s 
+ 9) はじまりの唄                                             4m 16s 
+10) 君は悪魔か少女になって / 大橋トリオ                                5m 9s  
+11) COLORS                                             4m 7s  
+12) Traveling - Ohashi Trio                            5m 45s 
+13) 大橋トリオ / 贈る言葉                                       5m 59s 
+14) はじまりの唄/大橋トリオ (2016.5.1 Rec)                        5m 25s 
+15) 温水洋一、大橋トリオ新曲「サニーデー」に乗せてギター披露で軽快なステップ　WEB動画“三菱地所グル… 3m 41s 
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:32:10.449862 Type：Edit]
+Before Edit:
+```nimrod
+ 6) 大橋トリオ / 「サリー」-episode3（少女編）-                       5m 3s  
+ 7) 大橋トリオ / 「タイミング」                                    3m 19s 
+ 8) 大橋トリオ / 「VENUS」                                    4m 37s 
+ 9) はじまりの唄                                             4m 16s 
+10) 君は悪魔か少女になって / 大橋トリオ                                5m 9s  
+11) COLORS                                             4m 7s  
+12) Traveling - Ohashi Trio                            5m 45s 
+13) 大橋トリオ / 贈る言葉                                       5m 59s 
+14) はじまりの唄/大橋トリオ (2016.5.1 Rec)                        5m 25s 
+15) 温水洋一、大橋トリオ新曲「サニーデー」に乗せてギター披露で軽快なステップ　WEB動画“三菱地所グル… 3m 41s 
+```
+---------------------
+After Edit:
+```nimrod
+ 1) 大橋トリオ / HONEY                6m 6s  
+ 2) 大橋トリオ / SHE                  3m 20s 
+ 3) 大橋トリオ『A　BIRD』                5m 43s 
+ 4) 大橋トリオ / ラブリー                 3m 37s 
+ 5) 大橋トリオ / モンスター ft.秦 基博        3m 27s 
+ 6) 大橋トリオ / 「サリー」-episode3（少女編）- 5m 3s  
+ 7) 大橋トリオ / 「タイミング」              3m 19s 
+ 8) 大橋トリオ / 「VENUS」              4m 37s 
+ 9) はじまりの唄                       4m 16s 
+10) 君は悪魔か少女になって / 大橋トリオ          5m 9s  
+11) COLORS                       4m 7s  
+                                        
+  5 more track(s)                       
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:32:12.244063 Type：Edit]
+Before Edit:
+```nimrod
+ 1) 大橋トリオ / HONEY                6m 6s  
+ 2) 大橋トリオ / SHE                  3m 20s 
+ 3) 大橋トリオ『A　BIRD』                5m 43s 
+ 4) 大橋トリオ / ラブリー                 3m 37s 
+ 5) 大橋トリオ / モンスター ft.秦 基博        3m 27s 
+ 6) 大橋トリオ / 「サリー」-episode3（少女編）- 5m 3s  
+ 7) 大橋トリオ / 「タイミング」              3m 19s 
+ 8) 大橋トリオ / 「VENUS」              4m 37s 
+ 9) はじまりの唄                       4m 16s 
+10) 君は悪魔か少女になって / 大橋トリオ          5m 9s  
+11) COLORS                       4m 7s  
+                                        
+  5 more track(s)                       
+```
+---------------------
+After Edit:
+```nimrod
+ 6) 大橋トリオ / 「サリー」-episode3（少女編）-                       5m 3s  
+ 7) 大橋トリオ / 「タイミング」                                    3m 19s 
+ 8) 大橋トリオ / 「VENUS」                                    4m 37s 
+ 9) はじまりの唄                                             4m 16s 
+10) 君は悪魔か少女になって / 大橋トリオ                                5m 9s  
+11) COLORS                                             4m 7s  
+12) Traveling - Ohashi Trio                            5m 45s 
+13) 大橋トリオ / 贈る言葉                                       5m 59s 
+14) はじまりの唄/大橋トリオ (2016.5.1 Rec)                        5m 25s 
+15) 温水洋一、大橋トリオ新曲「サニーデー」に乗せてギター披露で軽快なステップ　WEB動画“三菱地所グル… 3m 41s 
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:32:14.083262 Type：Edit]
+Before Edit:
+```nimrod
+ 6) 大橋トリオ / 「サリー」-episode3（少女編）-                       5m 3s  
+ 7) 大橋トリオ / 「タイミング」                                    3m 19s 
+ 8) 大橋トリオ / 「VENUS」                                    4m 37s 
+ 9) はじまりの唄                                             4m 16s 
+10) 君は悪魔か少女になって / 大橋トリオ                                5m 9s  
+11) COLORS                                             4m 7s  
+12) Traveling - Ohashi Trio                            5m 45s 
+13) 大橋トリオ / 贈る言葉                                       5m 59s 
+14) はじまりの唄/大橋トリオ (2016.5.1 Rec)                        5m 25s 
+15) 温水洋一、大橋トリオ新曲「サニーデー」に乗せてギター披露で軽快なステップ　WEB動画“三菱地所グル… 3m 41s 
+```
+---------------------
+After Edit:
+```nimrod
+ 1) 大橋トリオ / HONEY                6m 6s  
+ 2) 大橋トリオ / SHE                  3m 20s 
+ 3) 大橋トリオ『A　BIRD』                5m 43s 
+ 4) 大橋トリオ / ラブリー                 3m 37s 
+ 5) 大橋トリオ / モンスター ft.秦 基博        3m 27s 
+ 6) 大橋トリオ / 「サリー」-episode3（少女編）- 5m 3s  
+ 7) 大橋トリオ / 「タイミング」              3m 19s 
+ 8) 大橋トリオ / 「VENUS」              4m 37s 
+ 9) はじまりの唄                       4m 16s 
+10) 君は悪魔か少女になって / 大橋トリオ          5m 9s  
+11) COLORS                       4m 7s  
+                                        
+  5 more track(s)                       
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:32:18.339874 Type：Edit]
+Before Edit:
+```nimrod
+ 1) 大橋トリオ / HONEY                6m 6s  
+ 2) 大橋トリオ / SHE                  3m 20s 
+ 3) 大橋トリオ『A　BIRD』                5m 43s 
+ 4) 大橋トリオ / ラブリー                 3m 37s 
+ 5) 大橋トリオ / モンスター ft.秦 基博        3m 27s 
+ 6) 大橋トリオ / 「サリー」-episode3（少女編）- 5m 3s  
+ 7) 大橋トリオ / 「タイミング」              3m 19s 
+ 8) 大橋トリオ / 「VENUS」              4m 37s 
+ 9) はじまりの唄                       4m 16s 
+10) 君は悪魔か少女になって / 大橋トリオ          5m 9s  
+11) COLORS                       4m 7s  
+                                        
+  5 more track(s)                       
+```
+---------------------
+After Edit:
+```nimrod
+ 1) 大橋トリオ / HONEY                6m 6s  
+ 2) 大橋トリオ / SHE                  3m 20s 
+ 3) 大橋トリオ『A　BIRD』                5m 43s 
+ 4) 大橋トリオ / ラブリー                 3m 37s 
+ 5) 大橋トリオ / モンスター ft.秦 基博        3m 27s 
+ 6) 大橋トリオ / 「サリー」-episode3（少女編）- 5m 3s  
+ 7) 大橋トリオ / 「タイミング」              3m 19s 
+ 8) 大橋トリオ / 「VENUS」              4m 37s 
+ 9) はじまりの唄                       4m 16s 
+10) 君は悪魔か少女になって / 大橋トリオ          5m 9s  
+11) COLORS                       4m 7s  
+                                        
+  5 more track(s)                       
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:32:27.754580 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:33:33.242548 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:34:31.879611 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:35:09.639744 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:35:46.987735 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:36:08.141161 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:36:28.116736 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:36:34.341203 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:36:53.165857 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:37:23.821867 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:37:38.187089 Type：Edit]
+Before Edit:
+```nimrod
+ 1) “つつみ込むように” cover by さかいゆう                          2m 38s 
+ 2) “ (They Long to Be) Close to You” cover by さかいゆう   5m 40s 
+ 3) “Automatic” cover by さかいゆう                         2m 12s 
+ 4) SOLIDEMO / ピエロチック（さかいゆうft.秦基博 cover）               4m 23s 
+ 5) Sweet Memories　さかいゆう　Yu Sakai                      4m 41s 
+ 6) 愛燦燦　さかいゆう　Sakai Yu                                 4m 1s  
+ 7) YAORA - さかいゆう (cover) by 谷口綾                       4m 3s  
+ 8) さかいゆう (Yu Sakai) - 接吻 (Kiss) | JBL C37 Rhodes KEN… 5m 48s 
+ 9) きみなんだ / さかいゆう（cover）                               4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                           1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』    4m 24s 
+                                                              
+  8 more track(s)                                             
+```
+---------------------
+After Edit:
+```nimrod
+ 9) きみなんだ / さかいゆう（cover）                            4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                        1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』 4m 24s 
+12) 君と僕の挽歌 (さかいゆうcover) 窪田大地 KAZZ BARバンド            6m 55s 
+13) ジャスミン - さかいゆう (Covered) By 留圭                   4m 46s 
+14) ジャスミン／さかいゆう（cover）                              31s    
+15) さかいゆうストーリーcover                                 5m 17s 
+16) train／さかいゆう (Cover)                             5m 40s 
+17) さかいゆう「YAORA」 (cover)                            3m 50s 
+18) さかいゆう / 君と僕の挽歌 (cover)                          6m 1s  
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:37:49.172708 Type：Edit]
+Before Edit:
+```nimrod
+ 9) きみなんだ / さかいゆう（cover）                            4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                        1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』 4m 24s 
+12) 君と僕の挽歌 (さかいゆうcover) 窪田大地 KAZZ BARバンド            6m 55s 
+13) ジャスミン - さかいゆう (Covered) By 留圭                   4m 46s 
+14) ジャスミン／さかいゆう（cover）                              31s    
+15) さかいゆうストーリーcover                                 5m 17s 
+16) train／さかいゆう (Cover)                             5m 40s 
+17) さかいゆう「YAORA」 (cover)                            3m 50s 
+18) さかいゆう / 君と僕の挽歌 (cover)                          6m 1s  
+```
+---------------------
+After Edit:
+```nimrod
+ 9) きみなんだ / さかいゆう（cover）                            4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                        1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』 4m 24s 
+12) 君と僕の挽歌 (さかいゆうcover) 窪田大地 KAZZ BARバンド            6m 55s 
+13) ジャスミン - さかいゆう (Covered) By 留圭                   4m 46s 
+14) ジャスミン／さかいゆう（cover）                              31s    
+15) さかいゆうストーリーcover                                 5m 17s 
+16) train／さかいゆう (Cover)                             5m 40s 
+17) さかいゆう「YAORA」 (cover)                            3m 50s 
+18) さかいゆう / 君と僕の挽歌 (cover)                          6m 1s  
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:37:50.684779 Type：Edit]
+Before Edit:
+```nimrod
+ 9) きみなんだ / さかいゆう（cover）                            4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                        1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』 4m 24s 
+12) 君と僕の挽歌 (さかいゆうcover) 窪田大地 KAZZ BARバンド            6m 55s 
+13) ジャスミン - さかいゆう (Covered) By 留圭                   4m 46s 
+14) ジャスミン／さかいゆう（cover）                              31s    
+15) さかいゆうストーリーcover                                 5m 17s 
+16) train／さかいゆう (Cover)                             5m 40s 
+17) さかいゆう「YAORA」 (cover)                            3m 50s 
+18) さかいゆう / 君と僕の挽歌 (cover)                          6m 1s  
+```
+---------------------
+After Edit:
+```nimrod
+ 1) “つつみ込むように” cover by さかいゆう                          2m 38s 
+ 2) “ (They Long to Be) Close to You” cover by さかいゆう   5m 40s 
+ 3) “Automatic” cover by さかいゆう                         2m 12s 
+ 4) SOLIDEMO / ピエロチック（さかいゆうft.秦基博 cover）               4m 23s 
+ 5) Sweet Memories　さかいゆう　Yu Sakai                      4m 41s 
+ 6) 愛燦燦　さかいゆう　Sakai Yu                                 4m 1s  
+ 7) YAORA - さかいゆう (cover) by 谷口綾                       4m 3s  
+ 8) さかいゆう (Yu Sakai) - 接吻 (Kiss) | JBL C37 Rhodes KEN… 5m 48s 
+ 9) きみなんだ / さかいゆう（cover）                               4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                           1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』    4m 24s 
+                                                              
+  8 more track(s)                                             
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:37:54.280049 Type：Edit]
+Before Edit:
+```nimrod
+ 1) “つつみ込むように” cover by さかいゆう                          2m 38s 
+ 2) “ (They Long to Be) Close to You” cover by さかいゆう   5m 40s 
+ 3) “Automatic” cover by さかいゆう                         2m 12s 
+ 4) SOLIDEMO / ピエロチック（さかいゆうft.秦基博 cover）               4m 23s 
+ 5) Sweet Memories　さかいゆう　Yu Sakai                      4m 41s 
+ 6) 愛燦燦　さかいゆう　Sakai Yu                                 4m 1s  
+ 7) YAORA - さかいゆう (cover) by 谷口綾                       4m 3s  
+ 8) さかいゆう (Yu Sakai) - 接吻 (Kiss) | JBL C37 Rhodes KEN… 5m 48s 
+ 9) きみなんだ / さかいゆう（cover）                               4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                           1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』    4m 24s 
+                                                              
+  8 more track(s)                                             
+```
+---------------------
+After Edit:
+```nimrod
+ 1) “つつみ込むように” cover by さかいゆう                          2m 38s 
+ 2) “ (They Long to Be) Close to You” cover by さかいゆう   5m 40s 
+ 3) “Automatic” cover by さかいゆう                         2m 12s 
+ 4) SOLIDEMO / ピエロチック（さかいゆうft.秦基博 cover）               4m 23s 
+ 5) Sweet Memories　さかいゆう　Yu Sakai                      4m 41s 
+ 6) 愛燦燦　さかいゆう　Sakai Yu                                 4m 1s  
+ 7) YAORA - さかいゆう (cover) by 谷口綾                       4m 3s  
+ 8) さかいゆう (Yu Sakai) - 接吻 (Kiss) | JBL C37 Rhodes KEN… 5m 48s 
+ 9) きみなんだ / さかいゆう（cover）                               4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                           1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』    4m 24s 
+                                                              
+  8 more track(s)                                             
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:37:56.613807 Type：Edit]
+Before Edit:
+```nimrod
+ 1) “つつみ込むように” cover by さかいゆう                          2m 38s 
+ 2) “ (They Long to Be) Close to You” cover by さかいゆう   5m 40s 
+ 3) “Automatic” cover by さかいゆう                         2m 12s 
+ 4) SOLIDEMO / ピエロチック（さかいゆうft.秦基博 cover）               4m 23s 
+ 5) Sweet Memories　さかいゆう　Yu Sakai                      4m 41s 
+ 6) 愛燦燦　さかいゆう　Sakai Yu                                 4m 1s  
+ 7) YAORA - さかいゆう (cover) by 谷口綾                       4m 3s  
+ 8) さかいゆう (Yu Sakai) - 接吻 (Kiss) | JBL C37 Rhodes KEN… 5m 48s 
+ 9) きみなんだ / さかいゆう（cover）                               4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                           1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』    4m 24s 
+                                                              
+  8 more track(s)                                             
+```
+---------------------
+After Edit:
+```nimrod
+ 1) “つつみ込むように” cover by さかいゆう                          2m 38s 
+ 2) “ (They Long to Be) Close to You” cover by さかいゆう   5m 40s 
+ 3) “Automatic” cover by さかいゆう                         2m 12s 
+ 4) SOLIDEMO / ピエロチック（さかいゆうft.秦基博 cover）               4m 23s 
+ 5) Sweet Memories　さかいゆう　Yu Sakai                      4m 41s 
+ 6) 愛燦燦　さかいゆう　Sakai Yu                                 4m 1s  
+ 7) YAORA - さかいゆう (cover) by 谷口綾                       4m 3s  
+ 8) さかいゆう (Yu Sakai) - 接吻 (Kiss) | JBL C37 Rhodes KEN… 5m 48s 
+ 9) きみなんだ / さかいゆう（cover）                               4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                           1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』    4m 24s 
+                                                              
+  8 more track(s)                                             
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:38:08.035260 Type：Edit]
+Before Edit:
+```nimrod
+ 1) “つつみ込むように” cover by さかいゆう                          2m 38s 
+ 2) “ (They Long to Be) Close to You” cover by さかいゆう   5m 40s 
+ 3) “Automatic” cover by さかいゆう                         2m 12s 
+ 4) SOLIDEMO / ピエロチック（さかいゆうft.秦基博 cover）               4m 23s 
+ 5) Sweet Memories　さかいゆう　Yu Sakai                      4m 41s 
+ 6) 愛燦燦　さかいゆう　Sakai Yu                                 4m 1s  
+ 7) YAORA - さかいゆう (cover) by 谷口綾                       4m 3s  
+ 8) さかいゆう (Yu Sakai) - 接吻 (Kiss) | JBL C37 Rhodes KEN… 5m 48s 
+ 9) きみなんだ / さかいゆう（cover）                               4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                           1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』    4m 24s 
+                                                              
+  8 more track(s)                                             
+```
+---------------------
+After Edit:
+```nimrod
+ 9) きみなんだ / さかいゆう（cover）                            4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                        1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』 4m 24s 
+12) 君と僕の挽歌 (さかいゆうcover) 窪田大地 KAZZ BARバンド            6m 55s 
+13) ジャスミン - さかいゆう (Covered) By 留圭                   4m 46s 
+14) ジャスミン／さかいゆう（cover）                              31s    
+15) さかいゆうストーリーcover                                 5m 17s 
+16) train／さかいゆう (Cover)                             5m 40s 
+17) さかいゆう「YAORA」 (cover)                            3m 50s 
+18) さかいゆう / 君と僕の挽歌 (cover)                          6m 1s  
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:38:18.870399 Type：Edit]
+Before Edit:
+```nimrod
+ 9) きみなんだ / さかいゆう（cover）                            4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                        1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』 4m 24s 
+12) 君と僕の挽歌 (さかいゆうcover) 窪田大地 KAZZ BARバンド            6m 55s 
+13) ジャスミン - さかいゆう (Covered) By 留圭                   4m 46s 
+14) ジャスミン／さかいゆう（cover）                              31s    
+15) さかいゆうストーリーcover                                 5m 17s 
+16) train／さかいゆう (Cover)                             5m 40s 
+17) さかいゆう「YAORA」 (cover)                            3m 50s 
+18) さかいゆう / 君と僕の挽歌 (cover)                          6m 1s  
+```
+---------------------
+After Edit:
+```nimrod
+ 9) きみなんだ / さかいゆう（cover）                            4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                        1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』 4m 24s 
+12) 君と僕の挽歌 (さかいゆうcover) 窪田大地 KAZZ BARバンド            6m 55s 
+13) ジャスミン - さかいゆう (Covered) By 留圭                   4m 46s 
+14) ジャスミン／さかいゆう（cover）                              31s    
+15) さかいゆうストーリーcover                                 5m 17s 
+16) train／さかいゆう (Cover)                             5m 40s 
+17) さかいゆう「YAORA」 (cover)                            3m 50s 
+18) さかいゆう / 君と僕の挽歌 (cover)                          6m 1s  
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:38:20.067195 Type：Edit]
+Before Edit:
+```nimrod
+ 9) きみなんだ / さかいゆう（cover）                            4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                        1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』 4m 24s 
+12) 君と僕の挽歌 (さかいゆうcover) 窪田大地 KAZZ BARバンド            6m 55s 
+13) ジャスミン - さかいゆう (Covered) By 留圭                   4m 46s 
+14) ジャスミン／さかいゆう（cover）                              31s    
+15) さかいゆうストーリーcover                                 5m 17s 
+16) train／さかいゆう (Cover)                             5m 40s 
+17) さかいゆう「YAORA」 (cover)                            3m 50s 
+18) さかいゆう / 君と僕の挽歌 (cover)                          6m 1s  
+```
+---------------------
+After Edit:
+```nimrod
+ 1) “つつみ込むように” cover by さかいゆう                          2m 38s 
+ 2) “ (They Long to Be) Close to You” cover by さかいゆう   5m 40s 
+ 3) “Automatic” cover by さかいゆう                         2m 12s 
+ 4) SOLIDEMO / ピエロチック（さかいゆうft.秦基博 cover）               4m 23s 
+ 5) Sweet Memories　さかいゆう　Yu Sakai                      4m 41s 
+ 6) 愛燦燦　さかいゆう　Sakai Yu                                 4m 1s  
+ 7) YAORA - さかいゆう (cover) by 谷口綾                       4m 3s  
+ 8) さかいゆう (Yu Sakai) - 接吻 (Kiss) | JBL C37 Rhodes KEN… 5m 48s 
+ 9) きみなんだ / さかいゆう（cover）                               4m 40s 
+10) ジャスミン/さかいゆう (cover) 大木大地                           1m 47s 
+11) Marlyn May covered『Life is ft.,Emi Meyer/さかいゆう』    4m 24s 
+                                                              
+  8 more track(s)                                             
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:38:30.647808 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:42:31.242435 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:44:52.367881 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:49:32.690141 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:52:53.780323 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 15:57:33.905034 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:03:13.410034 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:07:15.725022 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:15:57.956242 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:16:34.952320 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:20:37.692207 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:33:27.568182 Type：Edit]
+Before Edit:
+```nimrod
+ 1) さかいゆう / ジャスミン (Film Ver.)                         6m 8s   
+ 2) ジャスミン さかいゆう × 秦基博                                 6m 2s   
+ 3) さかいゆう アルバム「4YU」全曲試聴                               5m 7s   
+ 4) さかいゆう Album「Yu Are Something」全曲ティザー               3m 12s  
+ 5) さかいゆうダンスメドレー 2014/3/30 Show-Me Choreography パスポート 6m 45s  
+ 6) さかいゆう 秦基博モノ                                       1m 13s  
+ 7) さかいゆう / ストーリー                                     5m 14s  
+ 8) Sweet Memories　さかいゆう　Yu Sakai                     4m 41s  
+ 9) SOLIDEMO / ピエロチック（さかいゆうft.秦基博 cover）              4m 23s  
+10) さかいゆう「Lalalai」.wmv                                9m 8s   
+11) オサム全２６曲カバーメドレー！！                                  14m 46s 
+                                                              
+  4 more track(s)                                             
+```
+---------------------
+After Edit:
+```nimrod
+ 5) さかいゆうダンスメドレー 2014/3/30 Show-Me Choreography パスポート 6m 45s  
+ 6) さかいゆう 秦基博モノ                                       1m 13s  
+ 7) さかいゆう / ストーリー                                     5m 14s  
+ 8) Sweet Memories　さかいゆう　Yu Sakai                     4m 41s  
+ 9) SOLIDEMO / ピエロチック（さかいゆうft.秦基博 cover）              4m 23s  
+10) さかいゆう「Lalalai」.wmv                                9m 8s   
+11) オサム全２６曲カバーメドレー！！                                  14m 46s 
+12) さかいゆう/ジャスミン【アカペラ】                                 4m 53s  
+13) 【アカペラ カバー】ピエロチック / さかいゆう ft. 秦基博 A Capella cover  3m 14s  
+14) アカペラメドレー/Little Glee Monster                      4m 24s  
+```
+
+[Channel:bot UserName:Groovy Date:2019-11-09 16:34:47.449542 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

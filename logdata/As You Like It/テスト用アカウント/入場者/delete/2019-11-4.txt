@@ -1,0 +1,3 @@
+[Channel:入場者 UserName:テスト用アカウント Date:2019-11-04 01:16:59.052219 Type：MessageDelete]
+
+

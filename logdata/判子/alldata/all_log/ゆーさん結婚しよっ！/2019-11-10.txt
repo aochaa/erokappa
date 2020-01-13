@@ -1,0 +1,14 @@
+[Channel:ゆーさん結婚しよっ！ UserName:you Date:2019-11-10 01:10:12.113957 Type：Edit]
+Before Edit:
+https://www.youtube.com/watch?v=2wH0mNAO26Q
+---------------------
+After Edit:
+https://www.youtube.com/watch?v=2wH0mNAO26Q
+
+[Channel:ゆーさん結婚しよっ！ UserName:you Date:2019-11-10 01:10:56.715254 Type：Edit]
+Before Edit:
+https://www.youtube.com/watch?v=yfOE7Zhjvao
+---------------------
+After Edit:
+https://www.youtube.com/watch?v=yfOE7Zhjvao
+

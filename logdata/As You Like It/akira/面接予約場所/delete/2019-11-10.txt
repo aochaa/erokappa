@@ -1,0 +1,19 @@
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:54:46.281042 Type：MessageDelete]
+今日18：00～
+明日　不明なので再度記入します
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:54:58.527580 Type：MessageDelete]
+<@309638245808078849> 　はい　よろしくおねがいします。
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:55:05.941449 Type：MessageDelete]
+<@309638245808078849> 　了解しました
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:55:19.626368 Type：MessageDelete]
+はい
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:55:24.564504 Type：MessageDelete]
+あ
+
+[Channel:面接予約場所 UserName:akira Date:2019-11-10 18:55:30.184027 Type：MessageDelete]
+あ　います
+

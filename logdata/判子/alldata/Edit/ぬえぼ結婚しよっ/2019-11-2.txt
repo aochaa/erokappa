@@ -1,0 +1,16 @@
+[Channel:ぬえぼ結婚しよっ UserName:たま Date:2019-11-02 12:27:30.180010 Type：Edit]
+Before Edit:
+わかかりしころのぬえぼ
+https://www.kobe-np.co.jp/news/jiken/201910/0012832567.shtml
+---------------------
+After Edit:
+わかかりしころのぬえぼ
+https://www.kobe-np.co.jp/news/jiken/201910/0012832567.shtml
+
+[Channel:ぬえぼ結婚しよっ UserName:丸みを帯びたＵ字の水槽 Date:2019-11-02 20:00:00.079652 Type：Edit]
+Before Edit:
+嫌いになる基準は！大声出す男と！ご飯残す人間！
+---------------------
+After Edit:
+嫌いになる基準は！大声出す男と！ご飯残す人間！（程度による）
+

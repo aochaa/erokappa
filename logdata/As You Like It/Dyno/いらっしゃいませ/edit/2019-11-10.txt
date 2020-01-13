@@ -1,0 +1,147 @@
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 00:04:59.349542 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 00:17:32.421191 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 01:03:03.998596 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 01:08:53.773127 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 01:41:53.501398 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 02:54:41.161953 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 09:24:08.262654 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 11:02:18.147321 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 11:08:24.847800 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 11:44:59.000504 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 11:56:40.056303 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 12:53:40.154499 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 16:38:01.478307 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 16:46:47.619615 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 17:58:41.252322 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 18:46:04.083982 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 19:27:05.431599 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 19:50:39.504666 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 20:00:10.619354 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 22:15:14.709804 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 23:56:41.492851 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

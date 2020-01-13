@@ -1,0 +1,3 @@
+[Channel:テスト中 UserName:shovel Date:2019-11-09 22:55:35.373180 Type：MessageDelete]
+
+

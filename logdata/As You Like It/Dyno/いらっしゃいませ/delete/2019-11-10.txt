@@ -1,0 +1,15 @@
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 11:08:54.512059 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 11:45:20.666756 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 11:56:48.343217 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 20:00:31.310274 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Dyno Date:2019-11-10 20:00:49.616496 Type：MessageDelete]
+
+

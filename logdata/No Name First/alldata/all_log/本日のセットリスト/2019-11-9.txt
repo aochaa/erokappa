@@ -1,0 +1,806 @@
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:25:57.338366 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:26:17.516352 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:32:19.772620 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:32:19.983941 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:38:42.746123 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:38:42.930552 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:40:39.320239 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:抹茶 Date:2019-11-09 17:40:47.291943 Type：Edit]
+Before Edit:
+-p https://www.youtube.com/playlist?list=PLwyNXClbwWGuaV0TylIQkuYkubyA3hUrb
+---------------------
+After Edit:
+-p https://www.youtube.com/playlist?list=PLwyNXClbwWGuaV0TylIQkuYkubyA3hUrb
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:40:48.081807 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:40:48.263428 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:41:36.175289 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:41:44.598653 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:41:53.246631 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:46:51.947771 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:46:52.071323 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:51:59.943924 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:52:00.124550 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:57:07.792696 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 17:57:07.903296 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:02:15.789856 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:02:25.512852 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:ゆりあ Date:2019-11-09 18:05:48.596880 Type：Edit]
+Before Edit:
+-play https://youtu.be/bCt-jPWd4QE
+---------------------
+After Edit:
+-play https://youtu.be/bCt-jPWd4QE
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:05:51.172876 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:07:24.659636 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:07:25.149217 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:08:02.820580 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:08:03.014939 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:08:03.115786 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:08:36.290249 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:12:57.912538 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:12:58.002210 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:17:52.333450 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:17:52.570815 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:18:29.485610 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:18:29.622110 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:18:29.763706 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:25:01.877592 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:25:02.157542 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:ゆりあ Date:2019-11-09 18:26:06.940833 Type：Edit]
+Before Edit:
+-play https://youtu.be/MSv7NbfbtU8
+---------------------
+After Edit:
+-play https://youtu.be/MSv7NbfbtU8
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:26:07.142215 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:31:33.811401 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:31:34.032809 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:31:40.388346 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:31:40.721254 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:31:40.865256 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:31:46.720281 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:31:54.514878 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:36:33.946716 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:36:34.051437 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:41:13.607192 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:41:13.751833 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:45:53.289576 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:45:53.425214 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:50:34.110303 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:50:34.398505 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:55:13.834478 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:55:14.034942 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:59:53.566987 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 18:59:53.675577 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:03:58.039048 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:04:18.728043 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:04:18.940657 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:抹茶 Date:2019-11-09 19:04:18.999070 Type：Edit]
+Before Edit:
+-p https://www.youtube.com/playlist?list=PLwyNXClbwWGuaV0TylIQkuYkubyA3hUrb
+---------------------
+After Edit:
+-p https://www.youtube.com/playlist?list=PLwyNXClbwWGuaV0TylIQkuYkubyA3hUrb
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:10:03.026034 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:10:03.221507 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:17:21.799815 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:17:21.951429 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:21:32.805191 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:21:32.995309 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:25:48.039242 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:25:48.180864 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:30:00.811796 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:30:01.002171 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:33:24.048399 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:33:24.282602 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:38:32.646707 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:38:32.823941 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:42:02.151148 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:42:02.365499 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:45:48.662220 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:45:48.892138 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:50:54.183264 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:50:54.283993 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:54:58.597033 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:54:58.727336 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:59:39.100708 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 19:59:39.259280 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:03:15.500924 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:03:15.781175 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:08:06.952556 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:08:07.112016 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:12:20.478643 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:12:20.686081 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:17:27.296224 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:17:27.633328 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:21:44.818377 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:21:45.008970 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:26:56.585278 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:26:56.782859 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:30:59.228605 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:30:59.432060 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:36:08.457917 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:36:08.714933 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:40:57.338414 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:40:57.590388 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:46:33.899923 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:46:34.049523 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:51:25.333106 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:51:26.005192 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:54:43.804206 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:54:44.005778 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:59:07.304876 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 20:59:07.501350 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:04:35.089786 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:04:35.319173 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:10:08.865586 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:10:08.959311 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:14:28.638147 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:14:28.845592 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:19:24.136117 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:19:24.275121 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:ちゆ Date:2019-11-09 21:20:43.295516 Type：Edit]
+Before Edit:
+!p https://youtu.be/ubuH0HDgO-8
+---------------------
+After Edit:
+!p https://youtu.be/ubuH0HDgO-8
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:25:46.770550 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:25:46.961045 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:30:47.362084 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:30:47.709155 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:34:20.381967 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:34:28.286604 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:34:28.392806 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:34:51.644173 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:35:11.944094 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:35:12.087710 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:35:25.553539 Type：Edit]
+Before Edit:
+```nimrod
+ 1) Official髭男dism - Pretender［］                       5m 36s  
+ 2) Official髭男dism - イエスタデイ［］                          5m 1s   
+ 3) Official髭男dism - 宿命［］                              4m 43s  
+ 4) Official髭男dism - ノーダウト［］                           3m 19s  
+ 5) Official髭男dism - ビンテージ［］                           4m 38s  
+ 6) Official髭男dism - Stand By You［］                    4m 18s  
+ 7) 【神回】Official髭男dismの10曲の歌詞で女の子に告白したらガチで成功したwww      11m 3s  
+ 8) 【M/V】Pretender - Official髭男dism┃Cover by Raon Lee  6m 40s  
+ 9) Official髭男dism - 115万キロのフィルム［］                     5m 24s  
+10) Official髭男dism - 115万キロのフィルム［Official Live Video］  5m 55s  
+11) Official髭男dism のベストソング Official HIGE DANdismヒットメド… 39m 41s 
+                                                               
+  8 more track(s)                                              
+```
+---------------------
+After Edit:
+```nimrod
+ 9) Official髭男dism - 115万キロのフィルム［］                     5m 24s  
+10) Official髭男dism - 115万キロのフィルム［Official Live Video］  5m 55s  
+11) Official髭男dism のベストソング Official HIGE DANdismヒットメド… 39m 41s 
+12) Official髭男dism - SWEET TWEET［］                     5m 26s  
+13) Official髭男dism - Escapade                          4m 23s  
+14) Official髭男dism - コーヒーとシロップ［］                       4m 5s   
+15) Official髭男dism - LADY［］                            4m 45s  
+16) Official髭男dism - ゼロのままでいられたら［Official Live Video］  5m 48s  
+17) Official髭男dism - 愛なんだが・・・［］                        4m 39s  
+18) Official髭男dism - Stand By You (Acoustic ver.) ［］   4m 25s  
+```
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:35:35.541754 Type：Edit]
+Before Edit:
+```nimrod
+ 9) Official髭男dism - 115万キロのフィルム［］                     5m 24s  
+10) Official髭男dism - 115万キロのフィルム［Official Live Video］  5m 55s  
+11) Official髭男dism のベストソング Official HIGE DANdismヒットメド… 39m 41s 
+12) Official髭男dism - SWEET TWEET［］                     5m 26s  
+13) Official髭男dism - Escapade                          4m 23s  
+14) Official髭男dism - コーヒーとシロップ［］                       4m 5s   
+15) Official髭男dism - LADY［］                            4m 45s  
+16) Official髭男dism - ゼロのままでいられたら［Official Live Video］  5m 48s  
+17) Official髭男dism - 愛なんだが・・・［］                        4m 39s  
+18) Official髭男dism - Stand By You (Acoustic ver.) ［］   4m 25s  
+```
+---------------------
+After Edit:
+```nimrod
+ 9) Official髭男dism - 115万キロのフィルム［］                     5m 24s  
+10) Official髭男dism - 115万キロのフィルム［Official Live Video］  5m 55s  
+11) Official髭男dism のベストソング Official HIGE DANdismヒットメド… 39m 41s 
+12) Official髭男dism - SWEET TWEET［］                     5m 26s  
+13) Official髭男dism - Escapade                          4m 23s  
+14) Official髭男dism - コーヒーとシロップ［］                       4m 5s   
+15) Official髭男dism - LADY［］                            4m 45s  
+16) Official髭男dism - ゼロのままでいられたら［Official Live Video］  5m 48s  
+17) Official髭男dism - 愛なんだが・・・［］                        4m 39s  
+18) Official髭男dism - Stand By You (Acoustic ver.) ［］   4m 25s  
+```
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:35:43.101483 Type：Edit]
+Before Edit:
+```nimrod
+ 9) Official髭男dism - 115万キロのフィルム［］                     5m 24s  
+10) Official髭男dism - 115万キロのフィルム［Official Live Video］  5m 55s  
+11) Official髭男dism のベストソング Official HIGE DANdismヒットメド… 39m 41s 
+12) Official髭男dism - SWEET TWEET［］                     5m 26s  
+13) Official髭男dism - Escapade                          4m 23s  
+14) Official髭男dism - コーヒーとシロップ［］                       4m 5s   
+15) Official髭男dism - LADY［］                            4m 45s  
+16) Official髭男dism - ゼロのままでいられたら［Official Live Video］  5m 48s  
+17) Official髭男dism - 愛なんだが・・・［］                        4m 39s  
+18) Official髭男dism - Stand By You (Acoustic ver.) ［］   4m 25s  
+```
+---------------------
+After Edit:
+```nimrod
+ 1) Official髭男dism - Pretender［］                       5m 36s  
+ 2) Official髭男dism - イエスタデイ［］                          5m 1s   
+ 3) Official髭男dism - 宿命［］                              4m 43s  
+ 4) Official髭男dism - ノーダウト［］                           3m 19s  
+ 5) Official髭男dism - ビンテージ［］                           4m 38s  
+ 6) Official髭男dism - Stand By You［］                    4m 18s  
+ 7) 【神回】Official髭男dismの10曲の歌詞で女の子に告白したらガチで成功したwww      11m 3s  
+ 8) 【M/V】Pretender - Official髭男dism┃Cover by Raon Lee  6m 40s  
+ 9) Official髭男dism - 115万キロのフィルム［］                     5m 24s  
+10) Official髭男dism - 115万キロのフィルム［Official Live Video］  5m 55s  
+11) Official髭男dism のベストソング Official HIGE DANdismヒットメド… 39m 41s 
+                                                               
+  8 more track(s)                                              
+```
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:38:08.135597 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:38:30.261686 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:38:30.446781 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 21:38:30.552971 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 22:18:11.744747 Type：MessageDelete]
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 22:33:11.954242 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:本日のセットリスト UserName:Groovy Date:2019-11-09 22:33:41.975888 Type：MessageDelete]
+
+

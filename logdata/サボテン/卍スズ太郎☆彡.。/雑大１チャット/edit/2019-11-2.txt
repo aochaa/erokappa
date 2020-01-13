@@ -1,0 +1,14 @@
+[Channel:雑大１チャット UserName:卍スズ太郎☆彡.。 Date:2019-11-02 18:52:41.231390 Type：Edit]
+Before Edit:
+https://youtu.be/LbZ1sV1bxJY
+---------------------
+After Edit:
+https://youtu.be/LbZ1sV1bxJY
+
+[Channel:雑大１チャット UserName:卍スズ太郎☆彡.。 Date:2019-11-02 19:12:41.086644 Type：Edit]
+Before Edit:
+-p https://youtu.be/BIIiCRQhnWw
+---------------------
+After Edit:
+-p https://youtu.be/BIIiCRQhnWw
+

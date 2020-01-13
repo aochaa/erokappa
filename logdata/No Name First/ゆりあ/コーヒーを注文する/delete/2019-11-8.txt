@@ -1,0 +1,3 @@
+[Channel:コーヒーを注文する UserName:ゆりあ Date:2019-11-08 23:25:57.966072 Type：MessageDelete]
+今日はマイホームに帰省しとる
+

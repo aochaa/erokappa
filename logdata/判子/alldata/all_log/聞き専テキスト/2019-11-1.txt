@@ -1,0 +1,23 @@
+[Channel:聞き専テキスト UserName:にゃんき Date:2019-11-01 21:30:44.181838 Type：MessageDelete]
+すき
+
+[Channel:聞き専テキスト UserName:にゃんき Date:2019-11-01 21:30:52.828221 Type：MessageDelete]
+すき
+
+[Channel:聞き専テキスト UserName:にゃんき Date:2019-11-01 21:31:22.424804 Type：MessageDelete]
+いずいず今日も可愛いね
+
+[Channel:聞き専テキスト UserName:くじら Date:2019-11-01 21:51:44.454940 Type：Edit]
+Before Edit:
+https://www.youtube.com/watch?v=bj34J2jrHZ8
+---------------------
+After Edit:
+https://www.youtube.com/watch?v=bj34J2jrHZ8
+
+[Channel:聞き専テキスト UserName:くじら Date:2019-11-01 22:37:53.083178 Type：Edit]
+Before Edit:
+https://www.youtube.com/watch?v=pSY1Kd8-SsM
+---------------------
+After Edit:
+https://www.youtube.com/watch?v=pSY1Kd8-SsM
+

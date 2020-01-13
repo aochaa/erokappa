@@ -1,0 +1,14 @@
+[Channel:聞き専テキスト UserName:くじら Date:2019-11-01 21:51:44.454940 Type：Edit]
+Before Edit:
+https://www.youtube.com/watch?v=bj34J2jrHZ8
+---------------------
+After Edit:
+https://www.youtube.com/watch?v=bj34J2jrHZ8
+
+[Channel:聞き専テキスト UserName:くじら Date:2019-11-01 22:37:53.083178 Type：Edit]
+Before Edit:
+https://www.youtube.com/watch?v=pSY1Kd8-SsM
+---------------------
+After Edit:
+https://www.youtube.com/watch?v=pSY1Kd8-SsM
+

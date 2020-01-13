@@ -1,0 +1,18 @@
+[Channel:今日の課題曲 UserName:ゆりあ Date:2019-11-11 01:01:11.183418 Type：MessageDelete]
+だいちゃん寝た？
+
+[Channel:今日の課題曲 UserName:ゆき Date:2019-11-11 14:10:04.275142 Type：Edit]
+Before Edit:
+<@632009448189198346> 
+
+永遠花火 を歌ってみた。シロたん【オリジナルPV】【ピアノアレンジ】 https://nico.ms/sm17537187?cp_webto=share_others_iosapp
+
+わしこれで覚えた
+---------------------
+After Edit:
+<@632009448189198346> 
+
+永遠花火 を歌ってみた。シロたん【オリジナルPV】【ピアノアレンジ】 https://nico.ms/sm17537187?cp_webto=share_others_iosapp
+
+わしこれで覚えた
+

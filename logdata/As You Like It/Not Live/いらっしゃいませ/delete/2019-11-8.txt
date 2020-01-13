@@ -1,0 +1,15 @@
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:36:42.374901 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:36:44.758375 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:36:48.843065 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:36:54.089021 Type：MessageDelete]
+
+
+[Channel:いらっしゃいませ UserName:Not Live Date:2019-11-08 00:37:00.320086 Type：MessageDelete]
+
+

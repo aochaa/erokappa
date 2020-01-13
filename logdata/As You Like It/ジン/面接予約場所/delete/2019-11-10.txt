@@ -1,0 +1,16 @@
+[Channel:面接予約場所 UserName:ジン Date:2019-11-10 18:43:01.210188 Type：MessageDelete]
+<@309638245808078849>
+18時、了解しました。
+
+[Channel:面接予約場所 UserName:ジン Date:2019-11-10 18:43:06.770205 Type：MessageDelete]
+<@309638245808078849>
+了解しました。
+
+[Channel:面接予約場所 UserName:ジン Date:2019-11-10 18:43:07.445399 Type：MessageDelete]
+<@309638245808078849>
+はい！
+
+[Channel:面接予約場所 UserName:ジン Date:2019-11-10 18:43:10.057603 Type：MessageDelete]
+<@309638245808078849>
+いつでも面接可能です。
+

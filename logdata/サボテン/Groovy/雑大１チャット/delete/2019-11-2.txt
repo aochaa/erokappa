@@ -1,0 +1,3 @@
+[Channel:雑大１チャット UserName:Groovy Date:2019-11-02 19:16:50.843260 Type：MessageDelete]
+
+

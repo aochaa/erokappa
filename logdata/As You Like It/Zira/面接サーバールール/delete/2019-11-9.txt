@@ -1,0 +1,15 @@
+[Channel:面接サーバールール UserName:Zira Date:2019-11-09 10:29:34.702065 Type：MessageDelete]
+
+
+[Channel:面接サーバールール UserName:Zira Date:2019-11-09 10:29:40.263122 Type：MessageDelete]
+
+
+[Channel:面接サーバールール UserName:Zira Date:2019-11-09 10:29:45.721551 Type：MessageDelete]
+
+
+[Channel:面接サーバールール UserName:Zira Date:2019-11-09 10:29:53.267243 Type：MessageDelete]
+
+
+[Channel:面接サーバールール UserName:Zira Date:2019-11-09 10:29:59.409248 Type：MessageDelete]
+
+

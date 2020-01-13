@@ -1,0 +1,16 @@
+[Channel:ï‘éñÇ∑ÇÈÇ∆Ç±Å` UserName:Tatsumaki Date:2019-11-08 00:38:19.984504 TypeÅFMessageDelete]
+<:info:390511462361202688> | **Channel Ignore Menu - #ï‘éñÇ∑ÇÈÇ∆Ç±Å`**
+
+```rb
+Ignore all standard commands in this channel using this menu
+
+All standard commands cannot be used on ignored channels
+This channel (ï‘éñÇ∑ÇÈÇ∆Ç±Å`) is not ignored
+
+[1] # Ignore channel: ï‘éñÇ∑ÇÈÇ∆Ç±Å`.
+[2] # Show ignored channels
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+

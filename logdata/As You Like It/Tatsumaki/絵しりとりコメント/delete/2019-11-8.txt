@@ -1,0 +1,16 @@
+[Channel:絵しりとりコメント UserName:Tatsumaki Date:2019-11-08 00:41:43.407224 Type：MessageDelete]
+<:info:390511462361202688> | **Channel Ignore Menu - #絵しりとりコメント**
+
+```rb
+Ignore all standard commands in this channel using this menu
+
+All standard commands cannot be used on ignored channels
+This channel (絵しりとりコメント) is not ignored
+
+[1] # Ignore channel: 絵しりとりコメント.
+[2] # Show ignored channels
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+

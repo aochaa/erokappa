@@ -1,0 +1,35 @@
+[Channel:bot UserName:Groovy Date:2019-10-30 08:22:26.377439 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-10-30 10:19:50.977700 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-10-30 10:21:19.320637 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-10-30 10:21:27.895678 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+
+[Channel:bot UserName:Groovy Date:2019-10-30 11:11:47.932062 Type：Edit]
+Before Edit:
+
+---------------------
+After Edit:
+
+

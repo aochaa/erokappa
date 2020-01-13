@@ -1,0 +1,27 @@
+[Channel:hello-work UserName:Zira Date:2019-11-07 22:27:17.373945 Type：MessageDelete]
+
+
+[Channel:hello-work UserName:Zira Date:2019-11-07 22:27:19.767778 Type：MessageDelete]
+
+
+[Channel:hello-work UserName:Zira Date:2019-11-07 22:27:25.213221 Type：MessageDelete]
+
+
+[Channel:hello-work UserName:Zira Date:2019-11-07 22:27:30.988083 Type：MessageDelete]
+
+
+[Channel:hello-work UserName:Zira Date:2019-11-07 22:27:36.145257 Type：MessageDelete]
+
+
+[Channel:hello-work UserName:Zira Date:2019-11-07 22:27:42.298177 Type：MessageDelete]
+
+
+[Channel:hello-work UserName:Zira Date:2019-11-07 22:27:47.554385 Type：MessageDelete]
+
+
+[Channel:hello-work UserName:Zira Date:2019-11-07 22:27:53.604732 Type：MessageDelete]
+
+
+[Channel:hello-work UserName:Zira Date:2019-11-07 22:28:01.101242 Type：MessageDelete]
+
+

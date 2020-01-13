@@ -1,0 +1,28 @@
+[Channel:ぬえぼ結婚しよっ UserName:ぬえぼ Date:2019-10-30 07:39:55.246836 Type：Edit]
+Before Edit:
+んんー！おつかれさまー！！！
+---------------------
+After Edit:
+んんー！おつかれさまです！！！
+
+[Channel:ぬえぼ結婚しよっ UserName:ぬえぼ Date:2019-10-30 12:17:04.079651 Type：Edit]
+Before Edit:
+https://bg-mania.jp/2019/10/27313693.html
+---------------------
+After Edit:
+https://bg-mania.jp/2019/10/27313693.html
+
+[Channel:ぬえぼ結婚しよっ UserName:ぬえぼ Date:2019-10-30 21:24:41.324895 Type：Edit]
+Before Edit:
+全然終わらなくて21死に終わったんだけど
+---------------------
+After Edit:
+全然終わらなくて21時に終わったんだけど
+
+[Channel:ぬえぼ結婚しよっ UserName:ぬえぼ Date:2019-10-30 21:25:10.788151 Type：Edit]
+Before Edit:
+全然終わらなくて21時に終わったんだけど
+---------------------
+After Edit:
+全然終わらなくて21時になったんだけど
+
